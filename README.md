@@ -14,10 +14,11 @@ I’m Priyanshi, an aspiring full stack developer focused on building practical,
 
 ## Tech Stack
 
-- **Languages:** Java, Python, C++, JavaScript
+- **Languages:** Java, Python, C++, JavaScript, TypeScript
 - **Frontend:** HTML, CSS, React
-- **Backend & Database:** MySQL
-- **Tools:** Git, GitHub
+- **Backend:** Node.js, Express.js, Django, Spring Boot, PHP
+- **Databases:** MySQL, MongoDB
+- **Tools & Platforms:** Git, GitHub
 
 ---
 
